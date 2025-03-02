@@ -15,7 +15,7 @@
   - **X** = Features of stocks (e.g., Bollinger Bands, PE ratio, momentum).
   - **Y** = Future stock price prediction.
 - Some models use mathematical formulas (e.g., **Black-Scholes model**), while **machine learning models use data-driven learning**.
-
+![[Screenshot 2025-03-01 at 10.02.12 PM.png]]
 ---
 
 ## Video ID: 9Ejng7fbBAc
@@ -23,18 +23,10 @@
 - **Regression** = Making a numerical prediction (as opposed to classification, which assigns labels).
 - **Supervised learning** = Training the model with **X and known Y values**.
 - Common **supervised regression algorithms**:
-  - **Linear Regression**: Finds parameters for a model (parametric learning).
-  - **K-Nearest Neighbors (KNN)**: Stores all training data and makes predictions based on the closest examples (instance-based learning).
+  - **Linear Regression**: Finds parameters for a model (**parametric** learning).
+  - **K-Nearest Neighbors (KNN)**: Stores all training data and makes predictions based on the closest examples (**instance-based** learning).
   - **Decision Trees**: Splits data into decision rules.
   - **Decision Forests**: Uses multiple decision trees to improve accuracy.
-
----
-
-## Video ID: _JRzaBEYV4g
-### Machine Learning in Robotics
-- Example: A robot navigates obstacles using **K-Nearest Neighbors (KNN)**.
-- The robot **learns from past mistakes** by recording situations (X) and correct actions (Y).
-- **In finance, Y represents future stock prices instead of actions.**
 
 ---
 
@@ -46,6 +38,8 @@
   - Momentum indicators
 - Future stock prices (Y) are used as labels.
 - The **model is trained on past X-Y pairs**, then used to make predictions on unseen data.
+
+![[Pasted image 20250301220836.png]]
 
 ---
 
@@ -59,6 +53,10 @@
   4. Train the **machine learning algorithm** (e.g., KNN, regression, decision trees).
   5. Use the trained model to **predict future prices**.
 
+![[Screenshot 2025-03-01 at 10.10.27 PM.png]]
+
+
+
 ---
 
 ## Video ID: GVOEnkjmBZU
@@ -69,6 +67,7 @@
   - **Forecast horizon** (1 week, 1 month, etc.).
   - **Lookback period** (e.g., last 3 months of stock data).
 - Predictions include **confidence levels**, based on **standard deviation of similar past cases**.
+
 
 ---
 
@@ -83,18 +82,8 @@
      - **Total Return**
   4. Compare performance against a **benchmark (e.g., S&P 500)**.
 
----
-
-## Video ID: jDGVpLozP3o
-### Backtesting in QuantDesk
-- Users can backtest models with parameters such as:
-  - **Initial capital**.
-  - **Trading frequency**.
-  - **Forecast horizon**.
-- Backtest results display:
-  - **Portfolio vs. S&P 500 performance**.
-  - **Sharpe ratio** (risk-adjusted return).
-  - **Total return over time**.
+![[Screenshot 2025-03-01 at 10.12.00 PM.png]]
+![[Screenshot 2025-03-01 at 10.12.24 PM.png]]
 
 ---
 

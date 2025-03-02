@@ -33,19 +33,20 @@
 - **Daily Returns**:  
   - First value is always **0**.
   - Exclude it from further calculations.
-- **Important Metrics**:
+- **Important Metrics For Performance of Portfolio**:
   1. **Cumulative Return**  
   2. **Average Daily Return**  
   3. **Standard Deviation of Daily Return**  
   4. **Sharpe Ratio**  
 
 **Formulas**:
-- **Cumulative Return**:  
-  \[ \frac{Final\ Portfolio\ Value}{Initial\ Portfolio\ Value} - 1 \]
+- **Cumulative Return**:  how much it has gone up from beginning to the end 
+	- (port_val[-1]/portval[0])-1
+  
 - **Average Daily Return**:  
-  \[ Mean(Daily\ Returns) \]
+	- \[ Mean(Daily\ Returns) \]
 - **Standard Deviation**:  
-  \[ Std(Daily\ Returns) \]
+	- \[ Std(Daily\ Returns) \]
 
 ---
 
@@ -54,12 +55,18 @@
 - Measures **return per unit of risk**.
 - Helps compare portfolios with different **risk levels**.
 - **Key Idea**: Higher **return** + Lower **risk** = Better performance.
-- **Sharpe Ratio Formula**:  
-  \[ S = \frac{Mean(R_p - R_f)}{StdDev(R_p - R_f)} \]
 
+
+![[Screenshot 2025-03-01 at 9.37.51 PM.png]]
+- **Sharpe Ratio Formula**:  
+	- risk adjusted returns
+	- ![[Screenshot 2025-03-01 at 9.40.13 PM.png]]
+	- ![[Screenshot 2025-03-01 at 9.41.42 PM.png]]
+	- this is foward 
+	- ![[Screenshot 2025-03-01 at 9.44.16 PM.png]]
 Where:
-  - **R_p** = Portfolio Return.
-  - **R_f** = Risk-Free Rate (e.g., Treasury Bonds).
+  - **Rp** = Portfolio Return.
+  - **Rf** = Risk-Free Rate (e.g., Treasury Bonds).
 
 - **Typical Risk-Free Rates**:
   - **LIBOR (London Interbank Offer Rate)**.
@@ -81,8 +88,8 @@ Where:
 ## Video ID: mykUMLWokkQ
 ### Sharpe Ratio Adjustments for Time Frame
 - The **Sharpe ratio varies** based on how frequently you **sample data**.
-- **Adjustment Factor (K)**:
-  - **Daily Sampling**: \( K = \sqrt{252} \)
+- **Adjustment Factor (K)**: K = *number of samples per year*
+  - **Daily Sampling**: \( K = sqrt{252} \)
   - **Weekly Sampling**: \( K = \sqrt{52} \)
   - **Monthly Sampling**: \( K = \sqrt{12} \)
 - **Annualized Sharpe Ratio**:
@@ -97,9 +104,6 @@ Where:
   2. **Average Daily Return**.
   3. **Standard Deviation (Risk Measure)**.
   4. **Sharpe Ratio (Risk-Adjusted Return)**.
-
-**Assignment**:
-- Implement a function to **calculate portfolio statistics automatically**.
 
 ---
 
