@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "5a78979cd64cf2a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae4d4f27d17e65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba395ebd662280d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam 1/01-07 Portfolio Performance Evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-07 Portfolio Performance Evaluation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33ab552df932c677",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e69bb273d781399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b577f7d8495f50b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d0983bf39360ec1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ce1d297e5a6cb9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72ffdf718a00836f",
+    "type": "split",
+    "children": [
+      {
+        "id": "63d917fc509cac91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5e2f6aaddb9108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "56630b0fb8038141",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c33182810c77dcf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "845b291486223d32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bba395ebd662280d",
+  "lastOpenFiles": [
+    "Exam 1/01-06 Financial Data Analysis and Statistics.md",
+    "Exam 1/03-04 Ensemble Learning.md",
+    "Exam 1/03-03 Evaluating Machine Learning Algorithms.md",
+    "Exam 1/03-02 Supervised Regression Learning.md",
+    "Exam 1/02-05 Hedge Fund Strategies Using CAPM.md",
+    "Exam 1/02-04 CAPM.md",
+    "Exam 1/02-03 Company Valuation and Stock Pricing.md",
+    "Exam 1/02-02 Stock Trading Mechanics.md",
+    "Exam 1/02-01 Computational Investing.md",
+    "Exam 1/01-08-09 Introduction to Optimizers.md",
+    "Exam 1/01-07 Portfolio Performance Evaluation.md",
+    "Exam 1/03-01 Machine Learning Algorithms for Trading.md",
+    "Exam 1.zip",
+    "Exam 1/Unconfirmed 32976.crdownload",
+    "Exam 1/Unconfirmed 76188.crdownload",
+    "Exam 1/Unconfirmed 428815.crdownload",
+    "Exam 1/Unconfirmed 543984.crdownload",
+    "Exam 1/02-06 Technical Analysis in Trading.md",
+    "Exam 1/Unconfirmed 82760.crdownload",
+    "Exam 1/Unconfirmed 544208.crdownload",
+    "Exam 1/Unconfirmed 259387.crdownload",
+    "Exam 1/Unconfirmed 256803.crdownload",
+    "Exam 1/Unconfirmed 940579.crdownload"
+  ]
+}
