@@ -11,14 +11,12 @@
             "id": "bba395ebd662280d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Exam 1/03-01 ML Algos for Trading.md",
-                "mode": "source",
-                "source": false
+                "file": "Exam 1/Screenshot 2025-03-01 at 10.17.13 PM.png"
               },
-              "icon": "lucide-file",
-              "title": "03-01 ML Algos for Trading"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-03-01 at 10.17.13 PM"
             }
           }
         ]
@@ -165,31 +163,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bba395ebd662280d",
+  "active": "b577f7d8495f50b6",
   "lastOpenFiles": [
-    "Screenshot 2025-03-01 at 10.12.24 PM.png",
-    "Screenshot 2025-03-01 at 10.12.00 PM.png",
-    "Screenshot 2025-03-01 at 10.10.27 PM.png",
-    "Pasted image 20250301220836.png",
-    "Screenshot 2025-03-01 at 10.02.12 PM.png",
+    "Exam 1/03-02 Supervised Regression Learning.md",
+    "Exam 1/Screenshot 2025-03-01 at 10.17.13 PM.png",
+    "Exam 1/Screenshot 2025-03-01 at 10.16.47 PM.png",
+    "Exam 1/03-01 ML Algos for Trading.md",
+    "Exam 1/Screenshot 2025-03-01 at 10.12.24 PM.png",
+    "Exam 1/Screenshot 2025-03-01 at 10.12.00 PM.png",
+    "Exam 1/Screenshot 2025-03-01 at 10.10.27 PM.png",
+    "Exam 1/Pasted image 20250301220836.png",
+    "Exam 1/Screenshot 2025-03-01 at 10.02.12 PM.png",
     "Exam 1/02-01 Computational Investing.md",
     "Exam 1/01-08-09 Optimizers.md",
-    "Screenshot 2025-03-01 at 9.55.19 PM.png",
-    "Screenshot 2025-03-01 at 9.54.21 PM.png",
-    "Screenshot 2025-03-01 at 9.52.24 PM.png",
+    "Exam 1/Screenshot 2025-03-01 at 9.55.19 PM.png",
+    "Exam 1/Screenshot 2025-03-01 at 9.54.21 PM.png",
+    "Exam 1/Screenshot 2025-03-01 at 9.52.24 PM.png",
     "Exam 1/01-07 Sharpe Ratio.md",
-    "Exam 1/Screenshot 2025-03-01 at 9.44.16 PM.png",
-    "Exam 1/Screenshot 2025-03-01 at 9.37.51 PM.png",
     "Exam 1/01-06 Financial Data Analysis and Statistics.md",
-    "Exam 1/Screenshot 2025-03-01 at 9.41.42 PM.png",
     "Exam 1/03-04 Ensemble Learning.md",
     "Exam 1/03-03 Evaluating Machine Learning Algorithms.md",
-    "Exam 1/03-02 Supervised Regression Learning.md",
     "Exam 1/02-05 Hedge Fund Strategies Using CAPM.md",
     "Exam 1/02-04 CAPM.md",
     "Exam 1/02-03 Company Valuation and Stock Pricing.md",
     "Exam 1/02-02 Stock Trading Mechanics.md",
-    "Exam 1/03-01 ML Algos for Trading.md",
     "Exam 1.zip",
     "Exam 1/Unconfirmed 32976.crdownload",
     "Exam 1/Unconfirmed 76188.crdownload",

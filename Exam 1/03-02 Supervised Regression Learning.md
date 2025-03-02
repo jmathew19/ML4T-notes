@@ -25,7 +25,8 @@
 - **Parametric Model Characteristic**:  
   - **Learns model parameters**.
   - **Discards training data after learning**.
-
+![[Screenshot 2025-03-01 at 10.16.47 PM.png]]
+![[Screenshot 2025-03-01 at 10.17.13 PM.png]]
 ---
 
 ## Video ID: CWCLQ6eu2Do
