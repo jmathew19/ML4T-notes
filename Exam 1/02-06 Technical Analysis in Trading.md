@@ -10,7 +10,7 @@
    - **Ignores company fundamentals**.  
    - Uses **historical price and volume** to identify patterns and trends.  
    - Traders look for signals based on past price movements.
-
+![[Screenshot 2025-03-02 at 7.00.48 PM.png]]
 ---
 
 ## Video ID: 8cv8qp9CDj0
@@ -36,6 +36,7 @@
   - Stocks moving **differently from the market** could be signals.
 - Works **better over short time periods** than long-term investing.
 
+
 ---
 
 ## Video ID: 3_k0eoIKNj8
@@ -49,7 +50,7 @@
 - **Computers** excel at **high-speed, simple decisions** (high-frequency trading).  
 - **Humans** excel at **long-term, complex investment choices**.  
 - **Middle ground** = Humans + AI collaboration.
-
+![[Screenshot 2025-03-02 at 7.04.41 PM.png]]
 ---
 
 ## Video ID: H7_J3jfiS5I
@@ -69,7 +70,7 @@
   - **Positive momentum** → Strong **uptrend**.
   - **Negative momentum** → Strong **downtrend**.
 - Used by traders to **identify trends early**.
-
+![[Screenshot 2025-03-02 at 7.06.03 PM.png]]
 ---
 
 ## Video ID: 4eKsY-KXEnc
@@ -80,6 +81,8 @@
 - **Uses:**
   1. **Trend Confirmation**: Price crossing SMA can signal **buy/sell points**.
   2. **Mean Reversion**: Large deviations from SMA indicate **overbought/oversold conditions**.
+
+![[Screenshot 2025-03-02 at 7.08.15 PM.png]]
 
 ---
 
@@ -94,6 +97,10 @@
 - **Buy Signal**: Price moves below **lower band** and crosses **back inside**.
 - **Sell Signal**: Price moves above **upper band** and crosses **back inside**.
 
+![[Screenshot 2025-03-02 at 7.10.38 PM.png]]
+
+
+
 ---
 
 ## Video ID: sDu6CudKa0Q
@@ -103,7 +110,7 @@
 - **Solution**: Normalize all indicators to the same scale:
   \[ Normalized\ Value = \frac{X - mean(X)}{std(X)} \]
 - Ensures **fair weighting** when combining indicators.
-
+![[Screenshot 2025-03-02 at 7.11.00 PM.png]]
 ---
 
 ## Video ID: ZQu3GO5Rdik

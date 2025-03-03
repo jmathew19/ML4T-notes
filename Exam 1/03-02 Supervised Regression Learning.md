@@ -43,7 +43,7 @@
 - **KNN**:
   - Finds the **K-nearest data points** and averages their Y-values.
   - Each neighbor contributes **equally** to the prediction.
-
+![[Screenshot 2025-03-01 at 10.18.13 PM.png]]
 - **Kernel Regression**:
   - **Weights neighbors** based on **distance** (closer points have more influence).
 
@@ -67,6 +67,7 @@
   - **Essential** to prevent overfitting.
   - **Train on past data, test on future data** (not the reverse).
 
+![[Screenshot 2025-03-01 at 10.21.41 PM.png]]
 ---
 
 ## Video ID: -roGBKfEXog

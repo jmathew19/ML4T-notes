@@ -33,6 +33,11 @@ Expected return:
 
 Total return expected = **1% gain** on portfolio.
 
+![[Screenshot 2025-03-02 at 6.55.31 PM.png]]
+
+
+
+![[Screenshot 2025-03-02 at 6.57.23 PM.png]]
 ---
 
 ## Video ID: uOvu3DUhzvw
@@ -52,7 +57,7 @@ Where:
 - \( W_A, W_B \) = Weights of Stock A and B.
 - \( \beta_A, \beta_B \) = Betas of stocks A and B.
 - \( \alpha_A, \alpha_B \) = Alphas of stocks A and B.
-
+![[Screenshot 2025-03-02 at 6.58.14 PM.png]]
 The **goal** is to find weights such that \( \beta_p = 0 \), **eliminating market risk** while maintaining expected **alpha gain**.
 
 ### Adjusted Portfolio Weights:
@@ -60,6 +65,7 @@ The **goal** is to find weights such that \( \beta_p = 0 \), **eliminating marke
 - **Weight for Stock B (W_B) = -0.33**
 
 Expected return remains **+1%** regardless of market movement.
+![[Screenshot 2025-03-02 at 6.58.42 PM.png]]
 
 ---
 

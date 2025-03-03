@@ -17,6 +17,8 @@
   - The **output is piecewise constant** (i.e., step-like).
   - **No overfitting** (does not perfectly fit the data).
   - **Cannot extrapolate** beyond existing data points.
+![[Screenshot 2025-03-01 at 10.23.45 PM.png]]
+
 
 ---
 
@@ -27,9 +29,10 @@
   2. Square the differences.
   3. Take the mean.
   4. Compute the square root.
-
-\[ RMSE = \sqrt{\frac{\sum{(Ytest - Ypredict)^2}}{N}} \]
-
+```python
+RMSE = \sqrt{\frac{\sum{(Ytest - Ypredict)^2}}{N}} 
+```
+![[Screenshot 2025-03-01 at 10.26.21 PM.png]]
 - **Purpose**:
   - Measures **how closely the model fits the actual data**.
   - Larger errors are **penalized more** due to squaring.
@@ -44,12 +47,14 @@
   1. Train the model on the **training set**.
   2. Evaluate error on the **testing set**.
 
-\[ RMSE_{test} > RMSE_{train} \]
+```python
+RMSE_{test} > RMSE_{train}
+```
 
 ---
 
 ## Video ID: yBqf9XCpz8o
-### Data Splitting for Model Evaluation
+### Cross Validation
 - **Standard Approach**:
   - **60% Training Data**
   - **40% Testing Data**
@@ -57,6 +62,12 @@
   - Split data into **5 equal parts**.
   - Train on **80%**, test on **20%**.
   - Rotate the testing portion in each trial.
+#### Roll Forward cv
+![[Screenshot 2025-03-01 at 10.28.53 PM.png]]
+
+![[Screenshot 2025-03-01 at 10.29.15 PM.png]]
+
+We just keep moving our data forward
 
 ---
 
@@ -82,8 +93,9 @@
   - **-1.0** → Strong negative correlation.
 
 \[ r = corr(Ytest, Ypredict) \]
+![[Screenshot 2025-03-01 at 10.30.53 PM.png]]
 
-- Use **NumPy's `corrcoef()` function** to compute correlation.
+
 
 ---
 
@@ -92,12 +104,17 @@
 - **Occurs when a model fits training data too well** but **performs poorly on test data**.
 - **Example**: Polynomial models with increasing complexity.
 
-\[ \text{Error} = f(\text{Model Complexity}) \]
 
 - **Graph Explanation**:
   - Training error **always decreases** as complexity increases.
   - Test error **initially decreases**, but then **starts increasing** → **Overfitting Zone**.
   - **Overfitting occurs when test error rises while training error keeps dropping**.
+
+![[Screenshot 2025-03-01 at 10.31.48 PM.png]]
+
+
+![[Screenshot 2025-03-01 at 10.32.33 PM.png]]
+
 
 ---
 

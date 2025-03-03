@@ -26,6 +26,8 @@
   - Difficult to exit; funds require a **lock-in period** (months/years).
   - No requirement to **disclose holdings**, even to investors.
 - Despite low transparency, they attract investors by showing strong performance.
+![[Screenshot 2025-03-01 at 10.39.53 PM.png]]
+
 
 ---
 
@@ -36,7 +38,7 @@
 - **Higher trading volume** → Greater liquidity.
 
 ### **Market Capitalization (Cap)**
-- **Total company value** = Stock price × Number of outstanding shares.
+- **Total company value** = Stock price × Number of outstanding (available) shares.
 - **Large-Cap Stocks**: Worth billions (e.g., Apple, Microsoft).
 - **Small-Cap Stocks**: Worth much less, often higher risk.
 
@@ -75,7 +77,7 @@
 
 ---
 
-## **Hedge Fund Investment Strategies**
+## **Hedge Fund Investment Strategies And Metrics**
 ### **1. Benchmark-Based Investing**
 - **Goal:** Beat a specific benchmark (e.g., S&P 500).
 - If the **market declines**, a fund can **still succeed** if it loses **less** than the benchmark.

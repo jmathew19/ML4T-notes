@@ -14,7 +14,7 @@
 - **Trading strategies** are based on identifying **mispricings**:
   - **Overpriced stock** → **Sell opportunity**.
   - **Underpriced stock** → **Buy opportunity**.
-
+![[Screenshot 2025-03-01 at 11.00.50 PM.png]]
 ---
 
 ## **Intrinsic Value (Dividend Discount Model)**
@@ -30,6 +30,14 @@
   - **Intrinsic value** = **$1 / 0.05 = $20**.
 - Higher risk → **Higher discount rate** → **Lower intrinsic value**.
 
+![[Screenshot 2025-03-01 at 11.01.47 PM.png]]
+
+```python
+Dividend = $2/year
+Discount rate = 4%
+
+Intrincitc value = $50
+```
 ### **Present Value of Future Money**
 - **A dollar today is worth more than a dollar in the future** due to risk and opportunity cost.
 - Formula:
@@ -39,7 +47,7 @@
 - Example:
   - $1 to be received in **1 year** with **1% interest** → **Worth $0.99 today**.
   - If riskier (5% interest), then **worth $0.95 today**.
-
+![[Screenshot 2025-03-01 at 11.01.12 PM.png]]
 ---
 
 ## **Book Value**
@@ -50,6 +58,9 @@
   - **Liabilities (loans):** -$10M.
   - **Book Value = $40M – $10M = $30M.**
 - Represents **minimum company value**.
+
+![[Screenshot 2025-03-01 at 11.04.56 PM.png]]
+
 
 ---
 
@@ -82,7 +93,7 @@
   - **Stock is undervalued** → Consider buying.
 - **Book Value as a Price Floor**:
   - If stock price **approaches book value**, a potential **buy signal**.
-  - If stock price **falls below book value**, buyers may purchase the company for its **assets**.
+  - If stock price **falls below book value**, buyers may purchase the company for its **assets**.![[Screenshot 2025-03-02 at 6.39.27 PM.png]]
 
 ---
 

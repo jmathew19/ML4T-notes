@@ -28,6 +28,8 @@
   - **Less overfitting**.
   - **Reduces model bias** by combining different learning perspectives.
 
+![[Screenshot 2025-03-01 at 10.33.57 PM.png]]
+
 ---
 
 ## Video ID: 2Mg8QD0F1dQ
@@ -41,7 +43,7 @@
   4. Predict using all models and **average their predictions**.
 - **Rule of Thumb**:  
   - **N' ≈ 60% of N** (each subset contains ~60% of the full data).
-
+![[Screenshot 2025-03-01 at 10.35.44 PM.png]]
 ---
 
 ## Video ID: sVriC_Ys2cw
@@ -54,6 +56,8 @@
   - Averages multiple KNN models.
   - **Reduces overfitting**.
   - **Improves generalization**.
+
+![[Screenshot 2025-03-01 at 10.37.10 PM.png]]
 
 ---
 
@@ -69,6 +73,7 @@
 - **Difference from Bagging**:
   - **Bagging**: Samples **randomly**.
   - **Boosting**: Samples **based on past errors**.
+![[Screenshot 2025-03-01 at 10.38.11 PM.png]]
 
 ---
 

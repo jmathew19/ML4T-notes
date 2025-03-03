@@ -7,6 +7,8 @@
 ---
 
 ## **Types of Orders**
+
+![[Screenshot 2025-03-01 at 10.45.09 PM.png]]
 ### **1. Market Order**
 - Buys or sells a stock **immediately** at the **best available price**.
 - Execution is guaranteed, but the price **may fluctuate**.
@@ -45,6 +47,9 @@
 - When a **market buy order** is placed, it is executed at the **lowest available ask price**.
 - When a **market sell order** is placed, it is executed at the **highest available bid price**.
 
+
+![[Screenshot 2025-03-01 at 10.48.17 PM.png]]
+![[Screenshot 2025-03-01 at 10.49.15 PM.png]]
 ---
 
 ## **Order Execution and Broker Role**
@@ -57,7 +62,13 @@
 ### **Internal Execution and Dark Pools**
 - Sometimes, brokers execute orders **internally** without going to an exchange.
 - Brokers can also use **Dark Pools**, private trading venues where large transactions occur anonymously.
-- **80-90% of retail orders never reach public exchanges**, reducing **market impact and fees**.
+- **80-90% of retail orders never reach public exchanges**, reducing **market impact and fees**
+- **Broker to exchange:**![[Screenshot 2025-03-01 at 10.51.27 PM.png]]
+- Intra broker exchange
+	- ![[Screenshot 2025-03-01 at 10.52.41 PM.png]]
+- Inter broker exchange
+	- ![[Screenshot 2025-03-01 at 10.53.27 PM.png]]
+
 
 ---
 
@@ -69,6 +80,8 @@
   - Detect buying pressure.
   - **Buy shares ahead of retail investors**.
   - Sell them **at a higher price** when the retail order arrives.
+![[Screenshot 2025-03-01 at 10.54.16 PM.png]]
+
 
 ### **2. Geographic Arbitrage**
 - Prices **slightly differ** across geographically separated exchanges (e.g., NYSE vs. London Stock Exchange).
@@ -77,9 +90,13 @@
   - Sell stock where the price is higher.
   - Capture risk-free **arbitrage profits**.
 
+![[Screenshot 2025-03-01 at 10.54.32 PM.png]]
+
+
 ---
 
-## **Advanced Order Types**
+## **Advanced Order Types** 
+Implemented by brokers
 ### **1. Stop Loss Order**
 - Automatically sells when a stock drops to a specified price.
 - Example:
@@ -103,6 +120,9 @@
 ### **4. Short Selling**
 - Profiting from **falling stock prices**.
 - You **borrow shares**, sell them, and later **buy them back at a lower price**.
+
+![[Screenshot 2025-03-01 at 10.56.13 PM.png]]
+![[Screenshot 2025-03-01 at 10.57.03 PM.png]]
 
 ---
 
