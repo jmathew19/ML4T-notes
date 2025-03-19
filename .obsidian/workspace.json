@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam 1/01-08-09 Optimizers.md",
+                "file": "Exam 2/02-09 The Fundamental Law of Active Portfolio Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-08-09 Optimizers"
+              "title": "02-09 The Fundamental Law of Active Portfolio Management"
             }
           }
         ]
@@ -167,28 +167,38 @@
   },
   "active": "bba395ebd662280d",
   "lastOpenFiles": [
-    "Exam 1/pics/Screenshot 2025-03-02 at 7.06.03 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-01 at 11.01.12 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-01 at 10.38.11 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-01 at 10.17.13 PM.png",
-    "Exam 1/pics/Pasted image 20250301220836.png",
+    "Screenshot 2025-03-19 at 11.09.52 AM.png",
+    "Screenshot 2025-03-19 at 11.08.52 AM.png",
+    "Screenshot 2025-03-19 at 11.06.18 AM.png",
+    "Screenshot 2025-03-19 at 11.05.50 AM.png",
+    "Screenshot 2025-03-19 at 11.04.04 AM.png",
+    "Screenshot 2025-03-19 at 10.57.54 AM.png",
+    "Screenshot 2025-03-19 at 10.56.30 AM.png",
+    "Screenshot 2025-03-19 at 10.54.02 AM.png",
+    "Exam 2/03-07 Dyna-Q Learning in Trading.md",
+    "Exam 2/03-06 Q-Learning in Trading.md",
+    "Exam 2/Interview - Tammer Kamel on Data & Quantitative Trading.md",
+    "Exam 2/03-05 Reinforcement Learning in Trading.md",
+    "Exam 2/02-10 Mean-Variance Optimization & Portfolio Theory.md",
+    "Exam 2/02-09 The Fundamental Law of Active Portfolio Management.md",
+    "Exam 2/02-08 Efficient Markets Hypothesis (EMH).md",
+    "Exam 2/02-07 Dealing with Data.md",
+    "Exam 1/03-04 Ensemble Learning.md",
+    "Exam 1/02-06 Technical Analysis in Trading.md",
+    "Exam 2/images/Screenshot 2025-03-05 at 1.51.01 PM.png",
+    "Exam 2/images/Screenshot 2025-03-05 at 1.50.22 PM.png",
+    "Exam 2/images/Screenshot 2025-03-05 at 1.46.12 PM.png",
+    "Exam 2/images",
+    "Exam 2",
+    "Exam 1/01-08-09 Optimizers.md",
     "Exam 1/02-02 Stock Trading Mechanics.md",
     "Exam 1/pics",
     "Exam 1/02-01 Computational Investing.md",
-    "Exam 1/01-08-09 Optimizers.md",
     "Exam 1/01-07 Sharpe Ratio.md",
     "Exam 1/01-06 Financial Data Analysis and Statistics.md",
     "Exam 1/02-03 Company Valuation and Stock Pricing.md",
-    "Exam 1/03-04 Ensemble Learning.md",
     "Exam 1/03-03 Evaluating ML Algorithms.md",
     "Exam 1/03-02 Supervised Regression Learning.md",
-    "Exam 1/pics/Screenshot 2025-03-01 at 10.56.13 PM.png",
-    "Exam 1/02-06 Technical Analysis in Trading.md",
-    "Exam 1/pics/Screenshot 2025-03-02 at 7.11.00 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-02 at 7.10.38 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-02 at 7.08.15 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-02 at 7.07.23 PM.png",
-    "Exam 1/pics/Screenshot 2025-03-02 at 7.04.41 PM.png",
     "Exam 1/03-01 ML Algos for Trading.md",
     "Exam 1/02-05 Hedge Fund Strategies Using CAPM.md",
     "Exam 1/02-04 CAPM.md",
@@ -198,8 +208,6 @@
     "Exam 1/Unconfirmed 428815.crdownload",
     "Exam 1/Unconfirmed 543984.crdownload",
     "Exam 1/Unconfirmed 82760.crdownload",
-    "Exam 1/Unconfirmed 544208.crdownload",
-    "Exam 1/Unconfirmed 259387.crdownload",
-    "Exam 1/Unconfirmed 256803.crdownload"
+    "Exam 1/Unconfirmed 544208.crdownload"
   ]
 }
