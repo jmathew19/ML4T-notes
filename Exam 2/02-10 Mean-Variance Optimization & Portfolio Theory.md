@@ -8,7 +8,7 @@
 
 ## Video ID: 3C0OpFT-Vlg
 ### Defining Risk: Volatility as Standard Deviation
-- **Risk = Volatility**:
+- **Risk = Volatility**:![[Screenshot 2025-03-19 at 5.10.20 PM.png]]
   - Measured as **standard deviation of daily returns**.
 - **Example**:
   - **Stock XYZ**: 10% return, but high volatility.
@@ -16,7 +16,7 @@
   - Lower volatility is **preferred for minimizing risk**.
 
 ## Video ID: 7SxSmJTrKXE
-### Risk-Return Tradeoff in Portfolio Construction
+### Risk-Return Tradeoff in Portfolio Construction![[Screenshot 2025-03-19 at 5.13.05 PM.png]]
 - **Scatter Plot Representation**:
   - **X-axis**: Risk (Volatility).
   - **Y-axis**: Return.
@@ -38,12 +38,19 @@
 
 ## Video ID: qOl04hw7f9g
 ### Understanding Covariance in Portfolio Construction
-- **Three Sample Stocks**:
+- **Three Sample Stocks**:![[Screenshot 2025-03-19 at 5.19.34 PM.png]]
   - **ABC & DEF**: **Move together** (correlation = **0.9**).
   - **GHI**: **Moves opposite** to ABC & DEF (**negative correlation**).
+  - 0.9 mean very close together 
+  - -0.9 means low correlation 
 - **Portfolio Experiments**:
-  - **ABC + DEF (High Correlation)** → No risk reduction.
-  - **ABC + DEF + GHI (Negative Correlation)** → **Lower volatility, same return**.
+- **Experiment 1**: ABC + DEF (High Correlation)→ No risk reduction.
+	- ![[Screenshot 2025-03-19 at 5.22.55 PM.png]]
+	- no real advantage since port has the same volatility as the others stocks indiviually
+- **Experiment 2**  ABC + DEF + GHI (Negative Correlation) → **Lower volatility, same return**.
+	- ![[Screenshot 2025-03-19 at 5.24.37 PM.png]]
+	  This allocation has also a 10% return as the other, but this graph is smother
+	- Same return with less volatility 
 - **Key Insight**:
   - **Combining negatively correlated assets reduces portfolio volatility**.
   - **Diversification benefits arise from assets that don't move in lockstep**.
@@ -54,24 +61,15 @@
   - **Variance & covariance matter more than individual risk**.
   - **Combining uncorrelated or negatively correlated assets lowers overall portfolio risk**.
 - **Mean-Variance Optimization (MVO)**:
-  - Finds the **best mix of assets** by analyzing:
-    - **Expected return** (predicted performance).
-    - **Volatility** (historical risk).
-    - **Covariance matrix** (relationship between assets).
-
-## Video ID: vnAbsNN3SbA
-### The Efficient Frontier
-- **Defining the Efficient Frontier**:
-  - **For a given return, what is the minimum risk?**
-  - **For a given risk, what is the maximum return?**
-- **Efficient Portfolios**:
-  - Portfolios **on the efficient frontier** are **optimal**.
-  - Portfolios **inside the frontier** are **suboptimal** (higher risk, lower return).
-- **Key Takeaways**:
-  - Investors **should aim for portfolios on the efficient frontier**.
-  - The **tangent line to the efficient frontier** represents the **maximum Sharpe ratio portfolio**.
-
-## Video ID: RoUZKkRenRo
+  - Finds the **best mix of assets** by analyzing: 
+	  - Input
+		- **Expected return** (predicted performance).
+		- **Volatility** (historical risk).
+	    - **Covariance matrix** (relationship between assets).
+	    - **Target Return** (Goal return)
+    - Output:
+	    - Asset weights for portfolio that minimizes risk
+![[Screenshot 2025-03-19 at 5.32.15 PM.png]]
 ### How Portfolio Optimizers Work
 - **Inputs for Portfolio Optimization**:
   1. **Expected Return** (future estimated gains).
@@ -82,16 +80,22 @@
   - **Optimal weights for each stock** that **minimize risk while achieving the target return**.
 
 ## Video ID: vnAbsNN3SbA
+### The Efficient Frontier
+![[Screenshot 2025-03-19 at 5.36.35 PM.png]]
+- **Defining the Efficient Frontier**:
+  - **For a given return, what is the minimum risk?**
+  - **For a given risk, what is the maximum return?**
+- **Efficient Portfolios**:
+  - Portfolios **on the efficient frontier** are **optimal**.
+  - Portfolios **inside the frontier** are **suboptimal** (higher risk, lower return).
+- **Key Takeaways**:
+  - Investors **should aim for portfolios on the efficient frontier**.
+  - The **tangent line to the efficient frontier** represents the **maximum Sharpe ratio portfolio**.
+![[Screenshot 2025-03-19 at 5.37.05 PM.png]]
+
+## Video ID: vnAbsNN3SbA
 ### Practical Considerations in Portfolio Optimization
 - **Key Lessons from Modern Portfolio Theory**:
   1. **More diversification reduces risk**.
   2. **Optimal portfolios minimize volatility through low-correlated assets**.
   3. **The efficient frontier defines the best possible return for a given risk level**.
-
----
-
-[Download Lecture Notes](sandbox:/mnt/data/Lecture_Portfolio_Optimization_Mean_Variance.md)
-
----
-
-Let me know if you need modifications! 🚀
