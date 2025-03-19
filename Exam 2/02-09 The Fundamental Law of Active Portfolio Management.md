@@ -119,3 +119,4 @@
   - Increasing breadth is **easier** than improving skill.
   - **Breadth impact follows a square root function**, meaning gains taper off.
 
+![[Screenshot 2025-03-19 at 11.19.49 AM.png]]
